@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "G:\\and stud\\Cavatina3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_developer.xml",
+        "source": "G:\\and stud\\Cavatina3\\app\\src\\main\\res\\layout\\fragment_developer.xml"
+    },
+    {
+        "merged": "G:\\and stud\\Cavatina3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alertalbum.xml",
+        "source": "G:\\and stud\\Cavatina3\\app\\src\\main\\res\\layout\\alertalbum.xml"
+    },
+    {
+        "merged": "G:\\and stud\\Cavatina3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\song.xml",
+        "source": "G:\\and stud\\Cavatina3\\app\\src\\main\\res\\layout\\song.xml"
+    },
+    {
+        "merged": "G:\\and stud\\Cavatina3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_playlist.xml",
+        "source": "G:\\and stud\\Cavatina3\\app\\src\\main\\res\\layout\\fragment_playlist.xml"
+    },
+    {
+        "merged": "G:\\and stud\\Cavatina3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\statusbar.xml",
+        "source": "G:\\and stud\\Cavatina3\\app\\src\\main\\res\\layout\\statusbar.xml"
+    },
+    {
+        "merged": "G:\\and stud\\Cavatina3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "G:\\and stud\\Cavatina3\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "G:\\and stud\\Cavatina3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_feedback.xml",
+        "source": "G:\\and stud\\Cavatina3\\app\\src\\main\\res\\layout\\fragment_feedback.xml"
+    },
+    {
+        "merged": "G:\\and stud\\Cavatina3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_album.xml",
+        "source": "G:\\and stud\\Cavatina3\\app\\src\\main\\res\\layout\\fragment_album.xml"
+    },
+    {
+        "merged": "G:\\and stud\\Cavatina3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "G:\\and stud\\Cavatina3\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "G:\\and stud\\Cavatina3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_song.xml",
+        "source": "G:\\and stud\\Cavatina3\\app\\src\\main\\res\\layout\\fragment_song.xml"
+    },
+    {
+        "merged": "G:\\and stud\\Cavatina3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_artists.xml",
+        "source": "G:\\and stud\\Cavatina3\\app\\src\\main\\res\\layout\\fragment_artists.xml"
+    },
+    {
+        "merged": "G:\\and stud\\Cavatina3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\and stud\\Cavatina3\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

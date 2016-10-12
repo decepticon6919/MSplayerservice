@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "G:\\and stud\\Cavatina3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\album.xml",
+        "source": "G:\\and stud\\Cavatina3\\app\\src\\main\\res\\drawable-xxhdpi\\album.xml"
+    },
+    {
+        "merged": "G:\\and stud\\Cavatina3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\repeatselector.xml",
+        "source": "G:\\and stud\\Cavatina3\\app\\src\\main\\res\\drawable-xxhdpi\\repeatselector.xml"
+    },
+    {
+        "merged": "G:\\and stud\\Cavatina3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\alertalbum.xml",
+        "source": "G:\\and stud\\Cavatina3\\app\\src\\main\\res\\drawable-xxhdpi\\alertalbum.xml"
+    },
+    {
+        "merged": "G:\\and stud\\Cavatina3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\listbgpressed.xml",
+        "source": "G:\\and stud\\Cavatina3\\app\\src\\main\\res\\drawable-xxhdpi\\listbgpressed.xml"
+    },
+    {
+        "merged": "G:\\and stud\\Cavatina3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\createplaylist.xml",
+        "source": "G:\\and stud\\Cavatina3\\app\\src\\main\\res\\drawable-xxhdpi\\createplaylist.xml"
+    },
+    {
+        "merged": "G:\\and stud\\Cavatina3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\listbgnormal.xml",
+        "source": "G:\\and stud\\Cavatina3\\app\\src\\main\\res\\drawable-xxhdpi\\listbgnormal.xml"
+    },
+    {
+        "merged": "G:\\and stud\\Cavatina3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\list_selector.xml",
+        "source": "G:\\and stud\\Cavatina3\\app\\src\\main\\res\\drawable-xxhdpi\\list_selector.xml"
+    },
+    {
+        "merged": "G:\\and stud\\Cavatina3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sensorselector.xml",
+        "source": "G:\\and stud\\Cavatina3\\app\\src\\main\\res\\drawable-xxhdpi\\sensorselector.xml"
+    },
+    {
+        "merged": "G:\\and stud\\Cavatina3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\shuffleselector.xml",
+        "source": "G:\\and stud\\Cavatina3\\app\\src\\main\\res\\drawable-xxhdpi\\shuffleselector.xml"
+    },
+    {
+        "merged": "G:\\and stud\\Cavatina3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\songbg.xml",
+        "source": "G:\\and stud\\Cavatina3\\app\\src\\main\\res\\drawable-xxhdpi\\songbg.xml"
+    }
+]

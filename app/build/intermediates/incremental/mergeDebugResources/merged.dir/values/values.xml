@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="nav_drawer_icons">
+        <item>@drawable/songs</item>
+        <item>@drawable/playlists</item>
+        <item>@drawable/albums</item>
+        <item>@drawable/artists</item>
+        <item>@drawable/feedback</item>
+        <item>@drawable/info</item>
+    </array>
+    <string-array name="nav_drawer_items">
+        <item>Songs</item>
+        <item>Playlists</item>
+        <item>Albums</item>
+        <item>Artists</item>
+        <item>Feedback</item>
+        <item>Developer</item>
+    </string-array>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="AddToPlaylist">Add To Existing Playlist</string>
+    <string name="CreatePlaylist">Create New Playlist</string>
+    <string name="Repeat">Repeat</string>
+    <string name="Sensor">Sensor</string>
+    <string name="Shuffle">Shuffle</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Cavatina</string>
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="id1">id1</string>
+    <string name="id2">id2</string>
+    <string name="share">Share</string>
+    <style name="MyActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">#008b8b</item>
+        
+    </style>
+    <style name="MyTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/MyActionBar</item>  
+    </style>
+</resources>
